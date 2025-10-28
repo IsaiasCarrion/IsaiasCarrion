@@ -1,4 +1,3 @@
-![TechEdge Banner](https://github.com/IsaiasCarrion/IsaiasCarrion/assets/11736932/a660d198-44e2-4752-94b9-1d4a89669528) 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/>
 <h2 align="left">¡Qué hacés! Soy Isaías</h2>
 
